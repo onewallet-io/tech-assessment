@@ -5,7 +5,7 @@ Used for the technical assessment of candidates
 I want you to build a set of end to end test on a specific endpoint.  The goal of that assement is not about the feature but about how you think and how do you organize your code.
 
 ## Pre-Requisite
-- Access to your AWS Wrokspace
+- Access to your AWS Workspace
 - Access to the API code
 - You can run the app locally so you can explore the feature to build test against
 
