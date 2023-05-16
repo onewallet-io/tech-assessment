@@ -18,8 +18,8 @@ I want you to build a set of end to end test on a specific endpoint.  The goal o
 
 
 ## Deliverables
-- Create a public repo in your own githhub account to submit your code
-- Add a readme.md that explain how to run the test
+- Create a tech-assessment.py directly into the onewallet-api folder
+- Add comments at the begining of the file that explain how to run the test
 
 
 ## Timing
